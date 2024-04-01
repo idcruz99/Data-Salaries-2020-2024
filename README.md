@@ -22,5 +22,6 @@ The user can select any data point on a visual and it will influence all visuals
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-<img width="500" alt="DataScienceSalaries2" src="https://github.com/idcruz99/Data-Salaries-2020-2024/assets/160052201/63a07c37-0d9b-4c0d-b92a-168590b7b86b">
+<img width="1120" alt="DataScienceSalaries2" src="https://github.com/idcruz99/Data-Salaries-2020-2024/assets/160052201/63a07c37-0d9b-4c0d-b92a-168590b7b86b"><img width="1120" alt="DataScienceSalaries3" src="https://github.com/idcruz99/Data-Salaries-2020-2024/assets/160052201/76aa7725-9e57-4c2d-a9c9-bafbe57f6933">
+
 
