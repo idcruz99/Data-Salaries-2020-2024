@@ -11,5 +11,10 @@ Data Cleaning:
 <li>Rename columns</li>
 <li>Import dataset from excel into Power BI, then transform the data to make any visual changes before loading data</li>
 
+---------------------------------------------------------------------------------------------------------------------------
 
-   
+<img width="1120" alt="DataScienceSalaries1" src="https://github.com/idcruz99/Data-Salaries-2020-2024/assets/160052201/d0fbfe1a-7796-4860-9479-b5c4d622093b">
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
