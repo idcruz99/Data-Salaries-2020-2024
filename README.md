@@ -6,3 +6,10 @@ Data Visualization Tool: Power BI
 
 Dataset: [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) from Kaggle
 <h2> Project Walk-Through </h2>
+Data Cleaning:
+<li>Take out any unneeded columns in dataset</li>
+<li>Rename columns</li>
+<li>Import dataset from excel into Power BI, then transform the data to make any visual changes before loading data</li>
+
+
+   
