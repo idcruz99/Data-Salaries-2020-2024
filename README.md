@@ -32,7 +32,7 @@ After adding filters to each visual, I just had to edit the value names and titl
 ---------------------------------------------------------------------------------------------------------------------------
 
 <h1> Interactivity </h1>
-The user can select any data point on a visual and it will influence all visuals on the screen to pertain to that specific data point. For example, if the user selects a company on the map, it will display the relevant information for that specific survey taker's salary.
+The user can select any data point on a visual and it will influence all visuals on the page to pertain to that specific data point. For example, if the user selects a location on the map, it will display the information for the survey takers' salaries at that specific company.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
