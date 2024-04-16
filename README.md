@@ -17,7 +17,7 @@ Dataset: [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/da
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-<h3>Create Visuals</h3>
+<h3>Creating Visuals</h3>
 For my visuals, I used a card to show the total amount of survey takers, a clustered column chart to show the average salary in USD for the most common positions, a line chart to show the increases or 
 decreases in salary from 2020-2024, and a map to highlight the company locations and sizes.
 
